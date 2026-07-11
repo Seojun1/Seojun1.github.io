@@ -7,8 +7,6 @@ tags: [Machine_Learning, Deep_Learning, Study]
 
 # Wht is deep learning taking off?
 
-카테고리: AI
-
 딥러닝이 주목받는 이유는?
 
 ---
