@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Seojun # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Just Student # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Seojun's Pages
@@ -28,9 +28,6 @@ url: ""
 github:
   username: Seojun1 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -39,7 +36,6 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/Seojun1 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
