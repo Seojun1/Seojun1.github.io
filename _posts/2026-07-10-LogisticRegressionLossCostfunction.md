@@ -1,5 +1,5 @@
 ---
-title: "Lost & Cost Function with Logistic Regression"
+title: "Loss & Cost Function with Logistic Regression"
 date: 2026-07-11 23:50:00 +0900
 categories: [Andrwng Lecture]
 tags: [Machine_Learning, Deep_Learning, Study]
