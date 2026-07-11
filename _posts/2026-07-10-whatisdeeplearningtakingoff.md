@@ -1,8 +1,8 @@
 ---
 title: "Wht is deep learning taking off?"
-date: 2023-11-12 12:24:00 +0900
-categories: [blog]
-tags: [github Pages, githubBlog, blog, velog, github]
+date: 2026-07-11 23:50:00 +0900
+categories: [Andrwng Lecture]
+tags: [Machine_Learning, Deep_Learning, Study]
 ---
 
 # Wht is deep learning taking off?
