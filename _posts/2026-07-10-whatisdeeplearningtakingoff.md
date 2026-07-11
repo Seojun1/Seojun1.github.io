@@ -23,7 +23,7 @@ tags: [github Pages, githubBlog, blog, velog, github]
 - 알고리즘의 개선 
 Gradient 소멸 문제 해결 (Sigmoid → ReLU 사용)
 
-![image.png](Wht%20is%20deep%20learning%20taking%20off/image.png)
+![image.png](/assets/images/what_is_deeplearning_taking_off/01.png)
 
 딥러닝 모델은 꾸준히 새롭게 나오고 있다
 물론 나오는 족족 많은 데이터를 탑재하여 성능이 좋은 모델들을 만들어냈으며, 결국 이는 위 그래프를 나타내게 
