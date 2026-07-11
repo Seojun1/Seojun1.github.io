@@ -7,8 +7,6 @@ tags: [Machine_Learning, Deep_Learning, Study]
 
 # Binary Classification
 
-카테고리: AI
-
 이진 분류
 
 ---
