@@ -13,7 +13,7 @@ tags: [Machine_Learning, Deep_Learning, Study]
 
 지도학습은 입력 X와 출력 Y에 매핑하는 함수를 학습하는 것이 목적이다
 
-![image.png](/assets/images/what_is_deeplearning_taking_off/01.png)
+![image.png](/assets/images/supervised-learning-with-nn/01.png)
 
 위 이미지처럼 입력(input)은 예측하고자하는 값(y)에 관한 특성, 정보들이다
 따라서 Output(y)는 input(x)를 통해 학습해서 최종적인 결과물이 된다.
