@@ -118,4 +118,5 @@ Python으로 mark_weekends 속성을 새로 생성하고, ts를 통해 사용자
 그리고 나서 Merge를 할건지 아님 그냥 Closed를 할건지를 결정하는데 그냥 바로 Closed 하는 곳도 많다고 
 한다 ..
 
-머 일단 기다려봐야징
+![image.png](/assets/images/firstOpenSource/image1.png)
+기여 성공! 이제 rio를 사용하면서 내가 만든 위젯을 공개적으로 사용할 수 있다 ~
