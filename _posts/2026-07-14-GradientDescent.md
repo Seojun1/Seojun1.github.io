@@ -71,11 +71,3 @@ $$
 
 하나의 변수에 대한 도함수는 $dw = \frac{dJ(w,b)}{dw}$ 로 표현해도 되지만
 두 개 이상의 변수가 있을 경우, 편미분 기호인 $\partial$을 사용한다.
-
-$$
-J(w, b)
-\newline
-w := w - \alpha \frac{\partial J(w,b)}{\partial w}\\
-\newline
-b := b - \alpha \frac{\partial J(w,b)}{\partial b}
-$$
