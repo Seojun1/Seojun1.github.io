@@ -1,3 +1,10 @@
+---
+title: "Gradient Descent"
+date: 2026-07-14 22:27:00 +0900
+categories: [Andrwng Lecture]
+tags: [Machine_Learning, Deep_Learning, Study]
+---
+
 # Gradient Descent
 경사하강법
 
