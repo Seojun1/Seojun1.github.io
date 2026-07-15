@@ -1,5 +1,5 @@
 ---
-title: "Gradient Descent"
+title: "Logistic Regression Gradient Descent"
 date: 2026-07-15 19:50:00 +0900
 categories: [Andrwng Lecture]
 tags: [Machine_Learning, Deep_Learning, Study]
@@ -38,9 +38,7 @@ dL(a,y)/da = -y/a + l-y / l-a (da가 -y/a + 1-y / 1-a가 되는 과정을 오른
 
 다음으로 z에 대해 미분하면 다음과 같다.
 
-![image.png](/assets/images/Logistic-Regression-Gradient-Descent/image4.png)
-
-![image.png](/assets/images/Logistic-Regression-Gradient-Descent/image5.png)
+![image.png](/assets/images/Logistic-Regression-Gradient-Descent/image8.png)
 
 dz의 식으로 dL/dz와 dL(a,y)/dz 두 개가 있는데 둘 다 똑같은 식으로 같은 의미를 내포하니 편한 식으로 이해하면 된다.
 (왼쪽 그림에서 dz가 a - y가 되는 과정을 오른쪽에 작성해놓았으니 참고)

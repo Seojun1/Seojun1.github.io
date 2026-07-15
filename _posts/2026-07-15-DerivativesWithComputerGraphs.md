@@ -1,5 +1,5 @@
 ---
-title: "Gradient Descent"
+title: "Derivatives With Computer Graphs"
 date: 2026-07-15 19:50:00 +0900
 categories: [Andrwng Lecture]
 tags: [Machine_Learning, Deep_Learning, Study]
